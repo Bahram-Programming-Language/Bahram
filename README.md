@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bahram-logo.png" alt="Bahram Logo" width="220"/>
+  <img src="bahram-logo.png" alt="Bahram Logo" width="220"/>
 </p>
 <a href="en.md"></a>
 <p align="center">
