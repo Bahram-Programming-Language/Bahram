@@ -1,7 +1,7 @@
 <p align="center">
   <img src="bahram-logo.png" alt="Bahram Logo" width="220"/>
 </p>
-<a href="en.md"></a>
+<a href="en.md">English</a>
 <p align="center">
   <b>Bahram (بهرام)</b><br/>
   زبان دامنهٔ هوافضا و سیستم‌های تعبیه‌شده — اجرای مستقیم + شبیه‌ساز + Ada/SPARK
